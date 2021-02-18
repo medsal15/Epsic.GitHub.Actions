@@ -8,7 +8,7 @@ namespace Epsic.GitHub.Actions.Tests
         [Fact]
         public void Test1()
         {
-            Assert.True(true, "Testing like a boss.");
+            Assert.True(false, "Testing like a boss.");
         }
     }
 }
